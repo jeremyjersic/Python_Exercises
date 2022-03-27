@@ -1,1 +1,1 @@
-Collection of random files written in Jupyter Notebook while learning about Python's applications in Finance.
+Collection of random files from Jupyter Notebook written while learning about Python's applications in Finance.
